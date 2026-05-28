@@ -1,2 +1,2 @@
 <p align="center">
-<img src="https://files.catbox.moe/zm87yk.jpg" alt="Image" width="230" height="230">
+<img src="https://files.catbox.moe/vb0sf1.jpg" alt="Image" width="230" height="230">
